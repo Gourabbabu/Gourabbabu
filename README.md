@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJrY3h5eGZlZ3MzOXE0MW1hajJ0bTRiamhyemE4Y2c1a3h0ZTFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 
 ###
 
@@ -70,3 +70,8 @@
 ###
 
 <br clear="both">
+
+<!-- Snake animation section (optional) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gourabbabu/Gourabbabu/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
