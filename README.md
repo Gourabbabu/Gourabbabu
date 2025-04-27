@@ -73,7 +73,5 @@
 
 <!-- Snake animation section (optional) -->
 <p align="center">
-  <img src="https://github.com/Gourabbabu/Gourabbabu/blob/main/.github/workflows/snake.yml" alt="Snake animation">
-  
-</p> 
-
+  <img src="https://raw.githubusercontent.com/Gourabbabu/Gourabbabu/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
