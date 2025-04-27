@@ -75,5 +75,5 @@
 <p align="center">
   <img src="https://github.com/Gourabbabu/Gourabbabu/blob/main/.github/workflows/snake.yml" alt="Snake animation">
   
-</p> can you add snake animation in this  
+</p> 
 
