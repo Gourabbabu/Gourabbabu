@@ -73,6 +73,7 @@
 
 <!-- Snake animation section (optional) -->
 <p align="center">
-  <img src="https://github.com/Gourabbabu/Gourabbabu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/Gourabbabu/Gourabbabu/blob/main/.github/workflows/snake.yml" alt="Snake animation">
+  
 </p> can you add snake animation in this  
 
