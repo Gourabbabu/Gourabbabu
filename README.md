@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/Gourabbabu/Gourabbabu/main/assets/autocad.png" height="30" alt="autocad logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" height="30" alt="autocad logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo" />
   <img width="12" />
