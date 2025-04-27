@@ -70,8 +70,3 @@
 ###
 
 <br clear="both">
-
-<!-- Snake animation section (optional) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gourabbabu/Gourabbabu/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
