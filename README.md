@@ -73,14 +73,6 @@
 
 <!-- Snake animation section (optional) -->
 
-# Hi there 👋 
-
-<!-- Your other GitHub profile content can go here -->
-# Hi there 👋 
-
-<!-- Your other GitHub profile content can go here -->
-
-## My GitHub Contributions
 ![Snake animation](https://github.com/Gourabbabu/Gourabbabu/blob/output/github-contribution-grid-snake.svg)
 
 <!-- More profile content can go here -->
