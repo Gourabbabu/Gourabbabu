@@ -72,3 +72,12 @@
 <br clear="both">
 
 <!-- Snake animation section (optional) -->
+
+# Hi there 👋 
+
+<!-- Your other GitHub profile content can go here -->
+
+## My GitHub Contributions
+![Snake animation](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
+
+<!-- More profile content can go here -->
