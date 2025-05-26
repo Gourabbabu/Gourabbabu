@@ -80,12 +80,6 @@ motto: "Code with passion, learn with purpose"
 
 ---
 
-## 📈 Contribution Journey
-
-
-
----
-
 ## 📱 Connect & Collaborate
 
 <div align="center">
