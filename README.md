@@ -33,14 +33,7 @@ motto: "Code with passion, learn with purpose"
   <!-- GitHub Streak -->
   <img align="left" src="https://streak-stats.demolab.com?user=Gourabbabu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFA500&currStreakLabel=58A6FF&border_radius=10" height="160" alt="GitHub Streak" />
   <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Gourabbabu&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa500&area=true&area_color=1f6feb&border_radius=10" height="160" alt="Activity Graph" />
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="25" alt="Fire"><br>
-  <span>DONE</span><br>
-  <img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="25" alt="Fire">
-</div>
-<br><br>
-<br><br>
+
 
 ## 🛠️ Tech Arsenal
 
