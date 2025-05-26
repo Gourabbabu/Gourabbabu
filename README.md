@@ -23,17 +23,20 @@ motto: "Code with passion, learn with purpose"
 ---
 
 ## 📊 GitHub Analytics
+
 <div align="center">
-  <!-- GitHub Statistics Row -->
   <img src="https://github-readme-stats.vercel.app/api?username=Gourabbabu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gourabbabu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" height="160" alt="Top Languages" />
 </div>
-<br>
-<div align="center">
-  <!-- GitHub Streak -->
-  <img align="left" src="https://streak-stats.demolab.com?user=Gourabbabu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFA500&currStreakLabel=58A6FF&border_radius=10" height="160" alt="GitHub Streak" />
-  <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Gourabbabu&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa500&area=true&area_color=1f6feb&border_radius=10" height="160" alt="Activity Graph" />
 
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Gourabbabu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFA500&currStreakLabel=58A6FF&border_radius=10" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gourabbabu&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa500&area=true&area_color=1f6feb&border_radius=10" height="160" alt="Activity Graph" />
+</div>
+
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -81,9 +84,13 @@ motto: "Code with passion, learn with purpose"
 <a href="https://www.linkedin.com/in/thisisgourab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
+
 <a href="mailto:gourabedu04@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
+
 <a href="https://www.youtube.com/@GourabsPixelPath/videos" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
 </a>
+
+</div>
