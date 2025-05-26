@@ -5,18 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gourabbabu&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Gourabbabu?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Gourabbabu?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ffd700&labelColor=0d1117" alt="GitHub stars" />
+  <img src="https://raw.githubusercontent.com/Gourabbabu/Gourabbabu/output/snake.svg" alt="Snake Contribution Animation" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -33,32 +23,27 @@ motto: "Code with passion, learn with purpose"
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
   <!-- GitHub Statistics Row -->
   <img src="https://github-readme-stats.vercel.app/api?username=Gourabbabu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gourabbabu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" height="160" alt="Top Languages" />
 </div>
-
 <br>
-
 <div align="center">
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Gourabbabu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFA500&currStreakLabel=58A6FF&border_radius=10" height="160" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gourabbabu&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa500&area=true&area_color=1f6feb&border_radius=10" height="160" alt="Activity Graph" />
 </div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="25" alt="Fire"> 
   <span style="color:#58A6FF; font-weight: bold;">Streak is Blazing!</span> 
   <img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="25" alt="Fire">
 </div>
-
 ---
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 ### 💻 **Programming Languages**
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css&theme=dark" alt="Programming Languages" />
@@ -97,46 +82,7 @@ motto: "Code with passion, learn with purpose"
 
 ## 📈 Contribution Journey
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gourabbabu/Gourabbabu/output/snake.svg" alt="Snake Contribution Animation" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%" />
-</div>
-
----
-
-## 🎯 Current Focus & Goals
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🔬 AI Research] --> B[ 👁️ Vision AI]
-    B --> C[🚀 Innovation]
-    C --> D[🌍 Impact]
-    
-    E[📚 Learning] --> F[🛠️ Building]
-    F --> G[📖 Teaching]
-    G --> H[🤝 Contributing]
-    
-    style A fill:#58a6ff,color:#0d1117
-    style B fill:#ffa500,color:#0d1117
-    style C fill:#7c3aed,color:#ffffff
-    style D fill:#10b981,color:#0d1117
-    style E fill:#58a6ff,color:#0d1117
-    style F fill:#ffa500,color:#0d1117
-    style G fill:#7c3aed,color:#ffffff
-    style H fill:#10b981,color:#0d1117
-```
-
-</div>
-
-**🎯 2025-2026 Objectives:**
-- 🤖 Advanced AI/ML model development
-- 🌐 Open source community leadership
-- 📚 Knowledge sharing through content creation
 
 ---
 
@@ -153,28 +99,3 @@ graph LR
 <a href="https://www.youtube.com/@GourabsPixelPath/videos" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
 </a>
-
-### 💬 Open to:
-🤝 Collaboration • 💼 AI/Game Dev Opportunities • 🎓 Mentoring • 🚀 OSS Contributions
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=Anonymous" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=58A6FF&animation=twinkling&fontAlignY=75" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
-  <br>
-  <strong style="color:#58A6FF;">Happy Coding! Let's innovate together! 🚀</strong>
-  <br><br>
-  <em style="color:#C9D1D9;">💝 I love connecting with fellow developers and creators - feel free to reach out!</em>
-</div>
-
----
