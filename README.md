@@ -20,8 +20,6 @@
 
 ## 🚀 About Me
 
-<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJrY3h5eGZlZ3MzOXE0MW1hajJ0bTRiamhyemE4Y2c1a3h0ZTFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
-
 ```yaml
 name: Gourab Chakraborty
 focus: ["Machine Learning", "Game Development", "Full Stack"]
@@ -146,41 +144,25 @@ graph LR
 
 <div align="center">
 
-### 🤝 **Let's Build Something Amazing Together!**
-
 <a href="https://www.linkedin.com/in/thisisgourab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="mailto:gourabedu04@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
-
 <a href="https://www.youtube.com/@GourabsPixelPath/videos" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
 </a>
-<div align="center">
 
-
-| 📧 **Contact** | 🔗 **Link** | 🎯 **Purpose** |
-|:---:|:---:|:---:|
-| Professional | [LinkedIn](https://www.linkedin.com/in/thisisgourab/) | Networking & Collaboration |
-| Direct | gourabedu04@gmail.com | Project Discussions |
-| Content | [Gourab's Pixel Path](https://www.youtube.com/@GourabsPixelPath/videos) | Learning & Tutorials |
-
-</div>
-
-### 💡 **Open to:**
- 🤝 **Collaboration** on innovative projects
- 💼 **Opportunities** in AI/ML and Game Development  
- 🎓 **Mentorship** and knowledge sharing
-🚀 **Open Source** contributions
+### 💬 Open to:
+🤝 Collaboration • 💼 AI/Game Dev Opportunities • 🎓 Mentoring • 🚀 OSS Contributions
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=Anonymous" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=Anonymous" />
 </div>
 
 <div align="center">
@@ -194,3 +176,5 @@ graph LR
   <br><br>
   <em style="color:#C9D1D9;">💝 I love connecting with fellow developers and creators - feel free to reach out!</em>
 </div>
+
+---
