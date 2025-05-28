@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gourabbabu/Gourabbabu/output/snake.svg" alt="Snake Contribution Animation" />
+  <img src="https://raw.githubusercontent.com/Gourabbabu/Gourabbabu/output/snake.svg" alt="Snake Contribution Animation"/>
 </div>
 
 ## 🚀 About Me
