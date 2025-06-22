@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Gourab Chakraborty
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Machine+Learning+Enthusiast;Game+Developer;Full+Stack+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Machine+Learning+Enthusiast;Agentic AI+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
